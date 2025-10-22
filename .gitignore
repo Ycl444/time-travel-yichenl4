@@ -1,0 +1,8 @@
+# Windows Temp files
+Thumbs.db
+
+#Vscode files
+.vscode/
+
+#Java Compiled class files
+*.class
